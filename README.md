@@ -29,5 +29,3 @@ You will need the latest version of Unity that can be downloaded from their webs
 
 * [Unity 5.x Animation Cookbook](https://www.packtpub.com/game-development/unity-5x-animation-cookbook?utm_source=github&utm_medium=repository&utm_campaign=9781785883910)
 
-### Suggestions and Feedback
-[Click here](https://docs.google.com/forms/d/e/1FAIpQLSe5qwunkGf6PUvzPirPDtuy1Du5Rlzew23UBp2S-P3wB-GcwQ/viewform) if you have any feedback or suggestions.
